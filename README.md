@@ -1,2 +1,0 @@
-# idea-repository
-intellij-repository
